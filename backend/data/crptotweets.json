@@ -1,0 +1,66 @@
+[
+    {
+        "id": "123456789",
+        "content": "Bitcoin is reaching new highs!",
+        "metrics": {
+            "likes": 1500,
+            "retweets": 300,
+            "replies": 50,
+            "quotes": 20,
+            "impressions": 50000
+        },
+        "metadata": {
+            "timestamp": "2024-12-17T10:00:00.000Z",
+            "language": "en",
+            "type": "original",
+            "category": "Crypto",
+            "sentiment": "positive"
+        },
+        "entities": {
+            "mentions": [],
+            "hashtags": [
+                {
+                    "tag": "Bitcoin"
+                }
+            ],
+            "urls": []
+        },
+        "cryptoPrice": {
+            "symbol": "BTC",
+            "priceAtPost": 45000.0,
+            "recentPrice": 46000.0
+        }
+    },
+    {
+        "id": "987654321",
+        "content": "Ethereum showing great promise!",
+        "metrics": {
+            "likes": 800,
+            "retweets": 150,
+            "replies": 30,
+            "quotes": 10,
+            "impressions": 30000
+        },
+        "metadata": {
+            "timestamp": "2024-12-17T11:00:00.000Z",
+            "language": "en",
+            "type": "original",
+            "category": "Crypto",
+            "sentiment": "positive"
+        },
+        "entities": {
+            "mentions": [],
+            "hashtags": [
+                {
+                    "tag": "Ethereum"
+                }
+            ],
+            "urls": []
+        },
+        "cryptoPrice": {
+            "symbol": "ETH",
+            "priceAtPost": 3200.0,
+            "recentPrice": 3300.0
+        }
+    }
+]
